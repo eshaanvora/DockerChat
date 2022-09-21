@@ -8,7 +8,7 @@ This repo contains programs to implement a multi-threaded TCP chat server and cl
 * ClientHandler.java receives messages from a client and relays it to the other clients.
 * Client.java is the client annd contains socket and username.
 
-A Jenkins job was configured to automatically run linters and unit test this project from my GitHub repo. The Jenkins server was configured on the icd.chapman.edu server
+A Jenkins job was configured to automatically run linters and unit test this project from my public GitHub repo. The Jenkins server was configured on the icd.chapman.edu server
 
 ## Identifying Information
 
